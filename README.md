@@ -28,8 +28,8 @@ and put text in `REPLY_TEXT`
 
 # CONFIG.JSON
 
-USERNAME - Account's name
-PASSWORD - Account's password
-CLIENT_ID - its important for using api
-CLIENT_SECRET - its important for using api
-REPLY_TEXT - text which bot reply on comments
+USERNAME - Account's name<br>
+PASSWORD - Account's password<br>
+CLIENT_ID - its important for using api<br>
+CLIENT_SECRET - its important for using api<br>
+REPLY_TEXT - text which bot reply on comments<br>
