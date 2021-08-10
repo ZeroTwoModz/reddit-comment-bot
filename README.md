@@ -4,7 +4,7 @@ install praw, os, time, json (FOR PYTHON)
 
 go here https://www.reddit.com/prefs/apps/
 
-create new app
+create new app (choose script)
 
 config it like this:
 
